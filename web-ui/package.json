@@ -1,7 +1,14 @@
 {
-  "name": "web-ui",
+  "name": "aerocut-ai-ui",
+  "description": "AeroCut AI by MCR — Web Dashboard for AI-Orchestrated Video Production",
+  "version": "1.0.0",
+  "author": "MCR (0xmcr)",
+  "homepage": "https://github.com/0xmcr/AeroCut-AI",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xmcr/AeroCut-AI.git"
+  },
   "private": true,
-  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
